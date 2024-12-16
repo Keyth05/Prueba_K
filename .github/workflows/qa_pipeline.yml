@@ -1,4 +1,3 @@
-qa_pipeline:
 name: CI/CD QA Pipeline
  
 on:
