@@ -1,4 +1,4 @@
-# 🎨 Custom Card Creation 🖼️
+# 🎨 Custom Card Creation 
 
 Welcome to my **Custom Card Creation** project. This project allows users to design and customize their own greeting cards 🎉, invitations 🎈 or any other special cards 🎁.
 
